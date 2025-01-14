@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kent942
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning java.
