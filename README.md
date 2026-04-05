@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kent942
-- 👀 I’m interested in nothing.
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in GAME DEV!
+- 🌱 I’m currently learning godot/gdscript.
